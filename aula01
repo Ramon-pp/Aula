@@ -1,14 +1,8 @@
 <!doctype    html>
-< hml lang= 1pt-BR >
+< html lang= 1pt-BR >
 <head>
   <meta charset="UF-8">
   <title></title>
-  <>
-
-
-
-
-
-
-
-</head>
+  <link rel="stylesheet" href="normalize.css">
+  <script src="jquery.min.js"></script>
+   </head>

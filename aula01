@@ -1,13 +1,13 @@
 <!doctype    html>
-< html lang= 1pt-BR >
+< html lang='pt-BR' >
 <head>
   <meta charset="UF-8">
   <title></title>
   <link rel="stylesheet" href="normalize.css">
-  <script src="jquery.min.js"></script>
+  <script src="prefixfree.min.js"></script>
    </head>
 <body>
-
+ <script src="jquery.min.js"></script>
 
 
 </body>
